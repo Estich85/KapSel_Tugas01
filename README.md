@@ -9,6 +9,12 @@
 ![WhatsApp Image 2021-10-31 at 22 09 38](https://user-images.githubusercontent.com/81666254/139610129-34b4c17f-94cb-42e8-b94d-1b11d28048f9.jpeg)
 Dari hasil berikut, dapat dilihat bahwa rata-rata orang menuliskan tentang vaksin, covid, pcr, vaksinasi, dan udah, jadi dapat disimpulkan bahwa rata-rata orang sudah melakukan vaksin covid.
 
+**Wordtree**
+
+![WhatsApp Image 2021-10-31 at 22 20 22](https://user-images.githubusercontent.com/81666254/139615887-2da35089-e3aa-4e96-9b08-fd365096e8d1.jpeg)
+
+Dari hasil berikut, terdapat vaksin baru yang bernama zifivax dimana disosialisasi kan bahwa vaksin tersebut sudah aman dan teruji di bpom.
+
 **Link**
 
 ![WhatsApp Image 2021-10-31 at 22 20 23](https://user-images.githubusercontent.com/81666254/139610508-3d8558ba-29bf-4778-9df2-24206fd103aa.jpeg)
