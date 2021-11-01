@@ -42,3 +42,8 @@ Korelasi antara astrazeneca dan sinovac memiliki pola yang sama pada awal grafik
 ![WhatsApp Image 2021-10-31 at 22 22 57](https://user-images.githubusercontent.com/81666254/139615263-e1143c19-db96-45f2-9cb6-d70aba2b72e8.jpeg)
 
 Dari hasil berikut, korelasi antara efek dan setiap jenis vaksin memiliki pola yang berbeda, namun antara efek dan astra memiliki kemiripin pola saat di akhir grafik.
+
+
+**LINK CODE COLAB**
+
+https://colab.research.google.com/drive/1HKs78paPzLWjTRDHJGBSVkeB_CH9ZrcP
