@@ -12,3 +12,13 @@ Dari hasil berikut, dapat dilihat bahwa rata-rata orang menuliskan tentang vaksi
 **Link**
 
 ![WhatsApp Image 2021-10-31 at 22 20 23](https://user-images.githubusercontent.com/81666254/139610508-3d8558ba-29bf-4778-9df2-24206fd103aa.jpeg)
+
+**Trend**
+
+![WhatsApp Image 2021-10-31 at 22 22 57 (1)](https://user-images.githubusercontent.com/81666254/139611421-b26e7f51-ba6c-4c54-83b0-9ef1a6249eb3.jpeg)
+
+Dari hasil berikut, menunjukkan bahwa korelasi vaksin dan udah memiliki pola yang hampir sama yang berarti banyak orang yang sudah vaksin.
+
+korelasi antara vaksin dan ga memiliki pola yang hampir sama pada awal grafik namun mengalami sedikit perubahan yang berarti bahwa sebelumnya banyak yang belum vaksin lalu segera vaksin.
+
+korelasi antara vaksin dan covid memiliki pola yang berbeda yang berarti tidak ada korelasi 
