@@ -13,7 +13,7 @@ Dari hasil berikut, dapat dilihat bahwa rata-rata orang menuliskan tentang vaksi
 
 ![WhatsApp Image 2021-10-31 at 22 20 22](https://user-images.githubusercontent.com/81666254/139615887-2da35089-e3aa-4e96-9b08-fd365096e8d1.jpeg)
 
-Dari hasil berikut, terdapat vaksin baru yang bernama zifivax dimana disosialisasi kan bahwa vaksin tersebut sudah aman dan teruji di bpom.
+Dari data yang kami dapat, menunjukkan bahwa terdapat vaksin baru yang bernama zifivax dimana disosialisasikan bahwa vaksin tersebut sudah aman dan teruji di bpom.
 
 **Link**
 
