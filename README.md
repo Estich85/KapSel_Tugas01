@@ -46,4 +46,4 @@ Dari hasil berikut, korelasi antara efek dan setiap jenis vaksin memiliki pola y
 
 **LINK CODE COLAB**
 
-https://colab.research.google.com/drive/1HKs78paPzLWjTRDHJGBSVkeB_CH9ZrcP
+https://colab.research.google.com/drive/1HKs78paPzLWjTRDHJGBSVkeB_CH9ZrcP?usp=sharing
