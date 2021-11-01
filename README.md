@@ -32,7 +32,7 @@ korelasi antara vaksin dan covid memiliki pola yang berbeda yang berarti tidak a
 
 ![WhatsApp Image 2021-10-31 at 22 22 56 (1)](https://user-images.githubusercontent.com/81666254/139613276-e65d5e27-5611-457a-b4b8-fbf4e4b18d76.jpeg)
 
-Berdasarkan korelasi antar vaksin, setiap vaksin memiliki grafik  yang hampir sama diakhir , tetapi saat di akhir dimana smua vakin memiliki grafik naik justru vaksin asffazeneca memiliki grafik yang turun, dimana sudah tidak banyak yang membahas vaksin tersebut dalam sepekan.  
+Berdasarkan korelasi antar vaksin, setiap vaksin memiliki grafik  yang hampir sama diakhir , tetapi dimana semua vakin memiliki grafik naik justru vaksin asffazeneca memiliki grafik yang turun, yang berarti sudah tidak banyak yang membahas vaksin tersebut dalam sepekan.  
 
 Korelasi antara astrazeneca dan sinovac memiliki pola yang sama pada awal grafik namun memiliki pola yang berbeda di akhir.
 
